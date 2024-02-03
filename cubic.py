@@ -1,4 +1,6 @@
 """
+CUBUIC TIME COMPLEXITY
+----------------------
 The program illustrates cubic time complexity, executing a nested loop that runs
 'n' times for each 'n' iteration for 'n' iteration. Mathematically, this results
 in O(n) * O(n) * O(n) = O(n * n * n), translating to a time complexity of O(n^3).

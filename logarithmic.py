@@ -1,5 +1,6 @@
 """
-BINARY SEARCH
+LOGARITHMIC TIME COMPLEXITY [BINARY SEARCH]
+-------------------------------------------
 
 The program showcases logarithmic time complexity, specifically exemplified in
 the context of a binary search algorithm. With a time complexity of O(log n), 

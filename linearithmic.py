@@ -1,5 +1,6 @@
 """
-MERGE SORT
+LINEARITHMIC TIME COMPLEXITY [MERGE SORT]
+-----------------------------------------
 
 The program exemplifies linearithmic time complexity, as seen in the example of
 a merge sort implementation. In the merge sort program, there is an inner loop
