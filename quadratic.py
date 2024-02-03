@@ -17,8 +17,8 @@ When running the nested for loop with two different values, the time complexity 
 """
 
 def square_with_different_input(x, y):
-    for i in range(x):     # O(n)
-        for j in range(y): # O(n)
+    for i in range(x):     # O(x)
+        for j in range(y): # O(y)
             print(i, j)
 
 print("2nd start")
